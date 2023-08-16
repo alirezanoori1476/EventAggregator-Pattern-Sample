@@ -1,0 +1,15 @@
+C:\Users\Alireza\Desktop\Code Sample\Messaging\Event Aggregator\EventAggregatorSample\EventAggregatorSample\bin\Debug\net6.0\EventAggregatorSample.exe
+C:\Users\Alireza\Desktop\Code Sample\Messaging\Event Aggregator\EventAggregatorSample\EventAggregatorSample\bin\Debug\net6.0\EventAggregatorSample.deps.json
+C:\Users\Alireza\Desktop\Code Sample\Messaging\Event Aggregator\EventAggregatorSample\EventAggregatorSample\bin\Debug\net6.0\EventAggregatorSample.runtimeconfig.json
+C:\Users\Alireza\Desktop\Code Sample\Messaging\Event Aggregator\EventAggregatorSample\EventAggregatorSample\bin\Debug\net6.0\EventAggregatorSample.dll
+C:\Users\Alireza\Desktop\Code Sample\Messaging\Event Aggregator\EventAggregatorSample\EventAggregatorSample\bin\Debug\net6.0\EventAggregatorSample.pdb
+C:\Users\Alireza\Desktop\Code Sample\Messaging\Event Aggregator\EventAggregatorSample\EventAggregatorSample\obj\Debug\net6.0\EventAggregatorSample.csproj.AssemblyReference.cache
+C:\Users\Alireza\Desktop\Code Sample\Messaging\Event Aggregator\EventAggregatorSample\EventAggregatorSample\obj\Debug\net6.0\EventAggregatorSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alireza\Desktop\Code Sample\Messaging\Event Aggregator\EventAggregatorSample\EventAggregatorSample\obj\Debug\net6.0\EventAggregatorSample.AssemblyInfoInputs.cache
+C:\Users\Alireza\Desktop\Code Sample\Messaging\Event Aggregator\EventAggregatorSample\EventAggregatorSample\obj\Debug\net6.0\EventAggregatorSample.AssemblyInfo.cs
+C:\Users\Alireza\Desktop\Code Sample\Messaging\Event Aggregator\EventAggregatorSample\EventAggregatorSample\obj\Debug\net6.0\EventAggregatorSample.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\Desktop\Code Sample\Messaging\Event Aggregator\EventAggregatorSample\EventAggregatorSample\obj\Debug\net6.0\EventAggregatorSample.dll
+C:\Users\Alireza\Desktop\Code Sample\Messaging\Event Aggregator\EventAggregatorSample\EventAggregatorSample\obj\Debug\net6.0\refint\EventAggregatorSample.dll
+C:\Users\Alireza\Desktop\Code Sample\Messaging\Event Aggregator\EventAggregatorSample\EventAggregatorSample\obj\Debug\net6.0\EventAggregatorSample.pdb
+C:\Users\Alireza\Desktop\Code Sample\Messaging\Event Aggregator\EventAggregatorSample\EventAggregatorSample\obj\Debug\net6.0\EventAggregatorSample.genruntimeconfig.cache
+C:\Users\Alireza\Desktop\Code Sample\Messaging\Event Aggregator\EventAggregatorSample\EventAggregatorSample\obj\Debug\net6.0\ref\EventAggregatorSample.dll
